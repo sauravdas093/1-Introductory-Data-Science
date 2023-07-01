@@ -1,5 +1,5 @@
 # 1-Introductory-Data-Science
-##Exploratory Data Analysis
+# Exploratory Data Analysis
 
 #Module Learning Objectives
 
