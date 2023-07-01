@@ -1,4 +1,4 @@
-# 1-Introductory-Data-Science
+# 1-Python Basics and Introductory-Data-Science
 # Exploratory Data Analysis
 
 #Module Learning Objectives
