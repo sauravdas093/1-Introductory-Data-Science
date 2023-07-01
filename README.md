@@ -1,5 +1,5 @@
 # 1-Introductory-Data-Science
-**Exploratory Data Analysis
+##Exploratory Data Analysis
 Module Learning Objectives
 Load a CSV dataset from a URL using pandas.read_csv
 Load a CSV dataset from a local file using `pandas.read_csv
