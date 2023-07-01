@@ -11,3 +11,12 @@
 
 * Describe and discriminate between basic data types such as categorical, quantitative, continuous, discrete, ordinal, nominal and 
   identifier
+
+# Making Features
+
+#Module Learning Objectives
+
+* Understand the purpose of feature engineering
+* Work with strings in pandas
+* Work with dates and times in pandas
+* Modify or create columns of a dataframe using the .apply() function
